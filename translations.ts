@@ -75,7 +75,7 @@ export const translations = {
     project6Title: "Maestro",
     project6Desc: "Interactive music control system using hand gestures to skip, pause, adjust volume, and tune bass frequencies via OpenCV.",
     footerCopyright: "© 2026 JC. System stable.",
-    footerGithub: "GitLab_",
+    footerGitLab: "GitLab_",
     footerLinkedIn: "LinkedIn_",
     footerMail: "Mail_",
     expNurova: "Full Stack Developer & Mobile Developer",
